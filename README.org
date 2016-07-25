@@ -1,0 +1,7 @@
+# microservices 
+
+There are multiple microservices developed at VLEAD.  It is essential that
+these talk to each other for each microservice is a sub set of the
+functionality required by the platform at VLEAD.
+
+
