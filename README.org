@@ -4,4 +4,6 @@ There are multiple microservices developed at VLEAD.  It is essential that
 these talk to each other for each microservice is a sub set of the
 functionality required by the platform at VLEAD.
 
+Please follow [[http://vlabs-dev.vlabs.ac.in/community/processes.html][development process]] for release management. 
+
 
